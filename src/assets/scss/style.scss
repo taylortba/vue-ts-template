@@ -1,0 +1,15 @@
+$defaultBlue:#409EFF;
+$backGrey:#f0f2f5;
+$defaultShadow:#9d9d9d;
+$defaultWhite:#FFFFFF;
+$defaultBarDark:rgb(84, 92, 100);
+$defaultLightBar:rgba(76, 82, 105, 1);
+$defaultDarkBar:rgba(48, 65, 74, 1);
+
+html{
+  background: $backGrey;
+  font-size: 14px;
+  body{
+    margin: 0;
+  }
+}
